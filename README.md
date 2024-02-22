@@ -16,14 +16,6 @@ This repository contains a collection of PHP scripts designed to demonstrate var
 
 4. **Response Sorting Method**: This function makes a request to `http://echo.jsontest.com/...`, parsing the response to categorize and print names based on binary responses ('yes' or 'no'). The output is formatted in two columns for easy comparison, demonstrating data parsing and organization.
 
-## Objective
-
-The primary goal of these scripts is to provide practical PHP solutions for common programming challenges encountered by Minutentag developers. These examples aim to improve efficiency, understanding, and application of PHP in various contexts, including API interaction, data manipulation, and conditional logic.
-
 ## Usage
 
 Each script can be run in a PHP-supported environment, requiring no additional libraries apart from cURL for API requests. Users can test, modify, and implement these solutions within their projects, adhering to Minutentag's coding standards and practices.
-
----
-
-Feel free to customize this README further based on the specifics of your project or the conventions of the Minutentag company.
